@@ -1,0 +1,5 @@
+ID: 2
+username: client
+date: 2022-05-22
+time: 14:00:38.306693800
+Total price: 126Ron
